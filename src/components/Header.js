@@ -7,7 +7,7 @@ function Header() {
   return (
     <div className="bg-[#2699fb] p-4">
       <div className="flex py-[12px] justify-between items-center max-w-[1240px] mx-auto">
-        <div className="text-3xl">Gaurav's Tech</div>
+        <div className="text-3xl">Gaurav & Shilpi's PVT LTD</div>
         {toggleMenu ? (
           <AiOutlineClose onClick={() => setToggleMenu(!toggleMenu)} className="text-white text-2xl block md:hidden" />
         ) : (
