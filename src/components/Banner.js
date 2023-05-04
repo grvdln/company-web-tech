@@ -23,6 +23,7 @@ function Banner() {
             loop
           />
         </div>
+        <button className="w-[30%] my-3 bg-black text-white p-3 rounded">Get started</button>
       </div>
     </div>
   );
