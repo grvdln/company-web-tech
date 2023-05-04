@@ -9,7 +9,7 @@ function App() {
       <Banner />
       <div className="max-w-[1240px] mx-auto my-10 p-2  h-screen md:grid grid-cols-2">
         <div className="md:w-[80%]">
-          <img src={laptop} />
+          <img src={laptop} alt="laptop"/>
         </div>
         <div className="flex flex-col justify-center">
           <h1 className="text-[#00df9a] font-bold my-2">LEARN FROM EXPERTS</h1>
