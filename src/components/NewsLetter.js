@@ -24,7 +24,7 @@ function NewsLetter() {
           <br />
           <p className="text-white">
             We care about the protection of your data. Read our <br />{" "}
-            <a className="text-black">Privacy policy</a>
+            <a href="#" className="text-black">Privacy policy</a>
           </p>
         </div>
       </div>
